@@ -32,9 +32,11 @@ python calibration.py
 ```
 
 ### Use DifferLand global version
+```bash
 cd ../../DifferLand_global_v3/experiments/
 python calibration.py
+```
 
 ### Develop your own "DifferLand"
 1. Recommend to develop based on the original DifferLand code, no matter site or global version, especailly the global version.
-2. A case study see in DifferLand_v_simple at site scale.
+2. A case study see in DifferLand_v_simple based on the site version.
